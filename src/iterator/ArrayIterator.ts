@@ -1,5 +1,5 @@
 import Item from "./Item";
-import Iterator from "./iterator";
+import Iterator from "./Iterator";
 import type Array from "./Array";
 
 class ArrayIterator implements Iterator<Item> {
